@@ -129,7 +129,7 @@ Veja [LICENSE](LICENSE) para mais detalhes.
 
 <div align="center">
 
-Feito com ❤️ por **[SEU NOME](https://github.com/[SEU-USUARIO])**
+Feito com ❤️ por **[Igor2920](https://github.com/[SEU-USUARIO])**
 
 ⭐ Se te ajudou, deixa uma estrela — isso faz diferença!
 
