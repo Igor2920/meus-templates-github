@@ -42,21 +42,13 @@ Copie, personalize e surpreenda quem visitar o seu perfil. 🚀
 
 <div align="center">
 
-| 🎓 Estudante | 💼 Profissional |
-|:---:|:---:|
-| ![preview-estudante](./previews/estudante.png) | ![preview-profissional](./previews/profissional.png) |
-
-| 🚀 Projeto | 🎮 Gamer |
-|:---:|:---:|
-| ![preview-projeto](./previews/projeto.png) | ![preview-gamer](./previews/gamer.png) |
-
-| 🧑‍💻 Freelancer |
-|:---:|
-| ![preview-freelancer](./previews/freelancer.png) |
+<img src="./imagens/estudante.png" width="19%"/>
+<img src="./imagens/profissional.png" width="19%"/>
+<img src="./imagens/projeto.png" width="19%"/>
+<img src="./imagens/gamer.png" width="19%"/>
+<img src="./imagens/freelancer.png" width="19%"/>
 
 </div>
-
-> 💡 Não tem as imagens ainda? Tire screenshots dos templates renderizados e salve na pasta `/previews`.
 
 ---
 
@@ -88,7 +80,7 @@ Copie, personalize e surpreenda quem visitar o seu perfil. 🚀
  ┃ ┣ 📄 projeto-app.md
  ┃ ┣ 📄 game-style.md
  ┃ ┗ 📄 freelancer.md
- ┣ 📂 previews/
+ ┣ 📂 imagens/
  ┃ ┗ 🖼️ *.png
  ┗ 📄 README.md
 ```
@@ -129,7 +121,7 @@ Veja [LICENSE](LICENSE) para mais detalhes.
 
 <div align="center">
 
-Feito com ❤️ por **[SEU NOME](https://github.com/[SEU-USUARIO])**
+Feito com ❤️ por **[Igor2920](https://github.com/igor2920)**
 
 ⭐ Se te ajudou, deixa uma estrela — isso faz diferença!
 
