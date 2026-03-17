@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=header&text=GitHub+README+Templates&fontSize=34&fontAlignY=55&desc=5+modelos+prontos+para+copiar+e+usar&descAlignY=78&animation=fadeIn" width="100%"/>
 
-[![Stars](https://img.shields.io/github/stars/[SEU-USUARIO]/[REPO]?style=flat-square&color=f59e0b)](https://github.com/[SEU-USUARIO]/[REPO]/stargazers)
-[![Forks](https://img.shields.io/github/forks/[SEU-USUARIO]/[REPO]?style=flat-square&color=6366f1)](https://github.com/[SEU-USUARIO]/[REPO]/network/members)
-[![License](https://img.shields.io/github/license/[SEU-USUARIO]/[REPO]?style=flat-square)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/igor2920/meus-templates-github?style=flat-square&color=f59e0b)](https://github.com/igor2920/meus-templates-github/stargazers)
+[![Forks](https://img.shields.io/github/forks/igor2920/meus-templates-github?style=flat-square&color=6366f1)](https://github.com/igor2920/meus-templates-github/network/members)
+[![License](https://img.shields.io/github/license/igor2920/meus-templates-github?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
 **Coleção de templates de README.md para GitHub — perfis e projetos.**  
